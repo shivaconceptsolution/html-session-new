@@ -1,0 +1,30 @@
+Web Technology:
+
+1) Website (HTML + CSS + JS + Bootstrap)
+
+2) Advanced Website (HTML + CSS + JS + Bootstrap + React/Angular)
+
+3) Dynamic Website  
+
+using CRM  (WordPress, Salesforce)
+using Frontend (HTML + CSS + JS + React/Angular/Vue)
+using Backend resource (Java as a API Development, Python as a API Development, .NET as API Development, PYTHON as a API Development)
+
+
+Amazon
+
+4) Web Application:
+
+it provide complete software system under web environment.
+
+JAVA Full Stack, PYTHON Full stack
+
+
+5) Cloud Application:
+
+It provide complete environment to develop application under cloud environment.
+
+
+
+
+
